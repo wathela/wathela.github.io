@@ -13,7 +13,7 @@ PyMerger is a Python tool designed for detecting binary black hole (BBH) mergers
 **Features**:
 - **Detection Capability**: Supports BBH merger detection with high accuracy, even at lower SNRs.
 - **Versatility**: Can detect BBH events and successfully identify many BNS and BHNS mergers on the ET mock data challange, demonstrating the tool’s potential for broad application in gravitational wave research.
-- **Open Source**: Available as a Python package on PyPI and [GitHub][https://github.com/wathela/PyMerger].
+- **Open Source**: Available as a Python package on PyPI and [GitHub](https://github.com/wathela/PyMerger).
 
 **Installation**:
 ```bash
