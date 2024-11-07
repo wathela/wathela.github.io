@@ -23,33 +23,37 @@ I am an Astronomer, GIS Developer, and Educator with expertise in Computer Visio
 
 ## Sample Projects
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between; gap: 2%;">
 
-### [PyMerger](#project-1)
-<div style="width: 30%;">
-  <a href="#tools#pymerger">
-    <img src="../assets/images/pymerger_logo.png" alt="Project 1" style="width:100%; border-radius: 5px;">
-  </a>
-  <p>Brief description of Project 1. <a href="#tools#pymerger">Read more →</a></p>
+    <!-- PyMerger Project -->
+    <div style="width: 30%;">
+        <h3><a href="#tools#pymerger">PyMerger</a></h3>
+        <a href="#tools#pymerger">
+            <img src="../assets/images/pymerger_logo.png" alt="PyMerger Logo" style="width:100%; border-radius: 5px;">
+        </a>
+        <p>Brief description of PyMerger. <a href="#tools#pymerger">Read more →</a></p>
+    </div>
+
+    <!-- Project 2 -->
+    <div style="width: 30%;">
+        <h3><a href="#project-2">Project 2 Title</a></h3>
+        <a href="#project-2">
+            <img src="../assets/images/project2_logo.png" alt="Project 2 Logo" style="width:100%; border-radius: 5px;">
+        </a>
+        <p>Brief description of Project 2. <a href="#project-2">Read more →</a></p>
+    </div>
+
+    <!-- Project 3 -->
+    <div style="width: 30%;">
+        <h3><a href="#project-3">Project 3 Title</a></h3>
+        <a href="#project-3">
+            <img src="../assets/images/project3_logo.png" alt="Project 3 Logo" style="width:100%; border-radius: 5px;">
+        </a>
+        <p>Brief description of Project 3. <a href="#project-3">Read more →</a></p>
+    </div>
+
 </div>
 
-### [Project 2 Title](#project-2)
-<div style="width: 30%;">
-  <a href="#project-2">
-    <img src="../assets/images/pymerger_logo.png" alt="Project 2" style="width:100%; border-radius: 5px;">
-  </a>
-  <p>Brief description of Project 2. <a href="#project-2">Read more →</a></p>
-</div>
-
-### [Project 3 Title](#project-3)
-<div style="width: 30%;">
-  <a href="#project-3">
-    <img src="../assets/images/pymerger_logo.png" alt="Project 3" style="width:100%; border-radius: 5px;">
-  </a>
-  <p>Brief description of Project 3. <a href="#project-3">Read more →</a></p>
-</div>
-
-</div>
 
 
 
