@@ -28,10 +28,10 @@ I am an Astronomer, GIS Developer, and Educator with expertise in Computer Visio
     <!-- PyMerger Project -->
     <div style="width: 30%;">
         <h3><a href="#tools#pymerger">PyMerger</a></h3>
-        <a href="#tools#pymerger">
+        <a href="#pymerger" onclick="navigateToSection('pymerger')">
             <img src="../assets/images/pymerger_logo.png" alt="PyMerger Logo" style="width:100%; border-radius: 5px;">
         </a>
-        <p>Brief description of PyMerger. <a href="#tools#pymerger">Read more →</a></p>
+        <p>Brief description of PyMerger. <a href="#pymerger" onclick="navigateToSection('pymerger')">Read more →</a></p>
     </div>
 
     <!-- Project 2 -->
@@ -55,5 +55,16 @@ I am an Astronomer, GIS Developer, and Educator with expertise in Computer Visio
 </div>
 
 
+function navigateToSection(sectionId) {
+    // Switch to the Tools tab
+    document.querySelectorAll('.tab-content').forEach(tab => tab.style.display = 'none');
+    document.getElementById('tools').style.display = 'block';
+
+    // Scroll to the specified section
+    const section = document.getElementById(sectionId);
+    if (section) {
+        section.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+}
 
 
