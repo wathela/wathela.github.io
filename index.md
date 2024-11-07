@@ -10,9 +10,9 @@ title: "Home"
 
 ![My Photo](assets/images/photo.jpg){: .profile-photo }
 
-# Welcome to My Portfolio!
+# Hello and Welcome to My Portfolio!
 
-Hello! I am an Astronomer, GIS Developer, and Educator with expertise in Computer Vision, Astronomical and Geo-spatial data modelling. Proficient in Python, data analysis, and tools development.
+I am an Astronomer, GIS Developer, and Educator with expertise in Computer Vision, Astronomical and Geo-spatial data modelling. Proficient in Python, data analysis, and tools development.
 
 # Sample Projects
 
