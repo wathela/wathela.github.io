@@ -24,7 +24,7 @@ permalink: /research/
 **Summary**:  
 PyMerger is a Python tool using a deep residual network (ResNet) for detecting BBH mergers in simulated Einstein Telescope data. The model achieved high detection accuracy across different SNR levels, demonstrating its efficiency for BBH detection and its potential for wider applications in gravitational wave research.
 
-![PyMerger Detection](../assets/images/research/pymerger.jpg)
+![PyMerger](../assets/images/pymerger.png)
 
 ---
 
@@ -37,7 +37,7 @@ PyMerger is a Python tool using a deep residual network (ResNet) for detecting B
 **Summary**:  
 This study leverages convolutional neural networks (CNNs) to detect binary black hole (BBH) mergers in synthetic gravitational wave signals for the Einstein Telescope (ET). Using ResNet, the model achieved high detection accuracy, especially for sources with high SNR, suggesting CNNs as a computationally efficient alternative for near-real-time gravitational wave detection in future ET data.
 
-![Detection of Einstein Telescope Signals](../assets/images/research/research1.jpg)
+![Detection of Einstein Telescope Signals](../assets/images/ET1.png)
 
 ---
 
@@ -47,10 +47,10 @@ This study leverages convolutional neural networks (CNNs) to detect binary black
 **Journal**: Monthly Notices of the Royal Astronomical Society (MNRAS), Volume 480  
 **DOI**: [https://doi.org/10.1093/mnras/sty2038](https://doi.org/10.1093/mnras/sty2038)
 
-**Summary**: 
-This paper introduces the FIRST Classifier, a deep convolutional neural network model designed to classify radio sources as compact or extended in radio astronomy surveys. The classifier demonstrates high accuracy and provides a robust framework for large-scale astronomical data analysis.
+**Summary**:
+This paper introduces the FIRST Classifier, an open-source software that automatically classifies radio sources from the Faint Images of the Radio Sky at Twenty centimeters (FIRST) survey into compact and extended (FRI, FRII and BENT) radio sources. In this work, a deep convolutional neural network model was trained to classify radio sources as compact or extended in radio sources. The model demonstrated high accuracy and provides a robust framework for large-scale radio data analysis.
 
-![FIRST Classifier](../assets/images/research/research2.jpg)
+![FIRST Classifier](../assets/images/FIRST.png)
 
 ---
 
@@ -63,5 +63,5 @@ This paper introduces the FIRST Classifier, a deep convolutional neural network 
 **Summary**:  
 This work utilizes remote sensing and GIS to optimize shelter placement and evacuation routes for the Shareq ALneel locality in Khartoum, Sudan. By analyzing terrain and urban infrastructure, the study provides an evidence-based approach for improving disaster response planning and public safety.
 
-![Shelter Sites and Evacuation Routes](../assets/images/research/research3.jpg)
+![Shelter Sites and Evacuation Routes](../assets/images/shelters.png)
 
