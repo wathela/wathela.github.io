@@ -37,7 +37,7 @@ PyMerger is a Python tool using a deep residual network (ResNet) for detecting B
 **Summary**:  
 This study leverages convolutional neural networks (CNNs) to detect binary black hole (BBH) mergers in synthetic gravitational wave signals for the Einstein Telescope (ET). Using ResNet, the model achieved high detection accuracy, especially for sources with high SNR, suggesting CNNs as a computationally efficient alternative for near-real-time gravitational wave detection in future ET data.
 
-![Detection of Einstein Telescope Signals](../assets/images/ET1.png)
+![Detected and undetected sources with respect to luminosity distance](../assets/images/ET1.png)
 
 ---
 
