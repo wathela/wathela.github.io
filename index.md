@@ -8,7 +8,7 @@ layout: default
 title: "Home"
 ---
 
-![My Photo](assets/images/my_photo.jpg){: .profile-photo }
+![My Photo](assets/images/photo.jpg){: .profile-photo }
 
 # Welcome to My Portfolio!
 
