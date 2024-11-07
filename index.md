@@ -12,7 +12,7 @@ title: "Home"
 
 # Welcome to My Portfolio!
 
-Hello! I'm Wathela Alhassan, specializing in building innovative solutions to solve complex problems. Here, you'll find a showcase of my projects, research, and the tools I've developed.
+Hello! I am an Astronomer, GIS Developer, and Educator with expertise in Computer Vision, Astronomical and Geo-spatial data modelling. Proficient in Python, data analysis, and tools development.
 
 # Sample Projects
 
