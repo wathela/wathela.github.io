@@ -4,9 +4,9 @@ title: "Tools"
 permalink: /tools/
 ---
 
-
-<div id="tools" class="tab-content">
+<div id="tools" class="tab-content"> 
     <h2>Tools Developed</h2>
+
     <!-- PyMerger Tool -->
     <div id="pymerger">
         <h3>PyMerger</h3>
@@ -21,6 +21,7 @@ permalink: /tools/
         <h4>Installation:</h4>
         <pre><code>pip install PyMergers</code></pre>
     </div>
+
     <!-- PyFIRSTClassifier Tool -->
     <div id="pyfirstclassifier">
         <h3>PyFIRSTClassifier</h3>
@@ -35,5 +36,4 @@ permalink: /tools/
         <h4>Installation:</h4>
         <pre><code>pip install PyFIRSTClassifier</code></pre>
     </div>
-
 </div>

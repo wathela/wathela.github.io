@@ -27,44 +27,30 @@ I am an Astronomer, GIS Developer, and Educator with expertise in Computer Visio
 
     <!-- PyMerger Project -->
     <div style="width: 30%;">
-        <h3><a href="javascript:void(0);" onclick="navigateToSection('tools', 'pymerger')">PyMerger</a></h3>
-        <a href="javascript:void(0);" onclick="navigateToSection('tools', 'pymerger')">
+        <h3><a href="/tools/#pymerger">PyMerger</a></h3>
+        <a href="/tools/#pymerger">
             <img src="../assets/images/pymerger_logo.png" alt="PyMerger Logo" style="width:100%; border-radius: 5px;">
         </a>
-        <p>Brief description of PyMerger. <a href="javascript:void(0);" onclick="navigateToSection('tools', 'pymerger')">Read more →</a></p>
+        <p>Brief description of PyMerger. <a href="/tools/#pymerger">Read more →</a></p>
     </div>
 
     <!-- Project 2 -->
     <div style="width: 30%;">
-        <h3><a href="#project-2">Project 2 Title</a></h3>
-        <a href="#project-2">
+        <h3><a href="/tools/#project-2">Project 2 Title</a></h3>
+        <a href="/tools/#project-2">
             <img src="../assets/images/project2_logo.png" alt="Project 2 Logo" style="width:100%; border-radius: 5px;">
         </a>
-        <p>Brief description of Project 2. <a href="#project-2">Read more →</a></p>
+        <p>Brief description of Project 2. <a href="/tools/#project-2">Read more →</a></p>
     </div>
 
     <!-- Project 3 -->
     <div style="width: 30%;">
-        <h3><a href="#project-3">Project 3 Title</a></h3>
-        <a href="#project-3">
+        <h3><a href="/tools/#project-3">Project 3 Title</a></h3>
+        <a href="/tools/#project-3">
             <img src="../assets/images/project3_logo.png" alt="Project 3 Logo" style="width:100%; border-radius: 5px;">
         </a>
-        <p>Brief description of Project 3. <a href="#project-3">Read more →</a></p>
+        <p>Brief description of Project 3. <a href="/tools/#project-3">Read more →</a></p>
     </div>
 
 </div>
-
-<script>
-function navigateToSection(tabId, sectionId) {
-    // Switch to the specified tab
-    document.querySelectorAll('.tab-content').forEach(tab => tab.style.display = 'none');
-    document.getElementById(tabId).style.display = 'block';
-
-    // Scroll to the specified section within the tab
-    const section = document.getElementById(sectionId);
-    if (section) {
-        section.scrollIntoView({ behavior: 'smooth', block: 'start' });
-    }
-}
-</script>
 
