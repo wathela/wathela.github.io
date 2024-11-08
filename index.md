@@ -34,13 +34,13 @@ I am an Astronomer, GIS Developer, and Educator with expertise in Computer Visio
         <p>Brief description of PyMerger. <a href="/tools/#pymerger">Read more →</a></p>
     </div>
 
-    <!-- Project 2 -->
+    <!-- PyFIRSTClassifier -->
     <div style="width: 30%;">
-        <h3><a href="/tools/#project-2">Project 2 Title</a></h3>
+        <h3><a href="/tools/#pyfirstclassifier">PyFIRSTClassifier</a></h3>
         <a href="/tools/#project-2">
-            <img src="../assets/images/project2_logo.png" alt="Project 2 Logo" style="width:100%; border-radius: 5px;">
+            <img src="../assets/images/FIRST_logo.jpg" alt="PyFIRSTClassifier Logo" style="width:100%; border-radius: 5px;">
         </a>
-        <p>Brief description of Project 2. <a href="/tools/#project-2">Read more →</a></p>
+        <p>Brief description of Project 2. <a href="/tools/#pyfirstclassifier">Read more →</a></p>
     </div>
 
     <!-- Project 3 -->
