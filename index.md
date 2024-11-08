@@ -29,28 +29,26 @@ I am an Astronomer, GIS Developer, and Educator with expertise in Computer Visio
     <div style="width: 30%;">
         <h3><a href="/tools/#pymerger">PyMerger</a></h3>
         <a href="/tools/#pymerger">
-            <img src="../assets/images/pymerger_logo.png" alt="PyMerger Logo" style="width:100%; border-radius: 5px;">
+            <img src="../assets/images/pymerger_logo.png" alt="PyMerger Logo" style="width:100%; height:150px; object-fit: cover; border-radius: 5px;">
         </a>
-        <!-- <p>Brief description of PyMerger. <a href="/tools/#pymerger">Read more →</a></p> -->
     </div>
 
     <!-- PyFIRSTClassifier -->
     <div style="width: 30%;">
         <h3><a href="/tools/#pyfirstclassifier">PyFIRSTClassifier</a></h3>
-        <a href="/tools/#project-2">
-            <img src="../assets/images/FIRST_logo.jpg" alt="PyFIRSTClassifier Logo" style="width:100%; border-radius: 5px;">
+        <a href="/tools/#pyfirstclassifier">
+            <img src="../assets/images/FIRST_logo.jpg" alt="PyFIRSTClassifier Logo" style="width:100%; height:150px; object-fit: cover; border-radius: 5px;">
         </a>
-        <!-- <p>Brief description of Project 2. <a href="/tools/#pyfirstclassifier">Read more →</a></p> -->
     </div>
 
-    <!-- Project 3 -->
+    <!-- Sentinel-2 Image Clustering -->
     <div style="width: 30%;">
-        <h3><a href="/data-science/#s2-clustering">Project 3 Title</a></h3>
-        <a href="/tools/#project-3">
-            <img src="../assets/images/s2_clustering.png" alt="S2 Clustering Logo" style="width:100%; border-radius: 5px;">
+        <h3><a href="/data-science/#s2-clustering">Sentinel-2 Image Clustering</a></h3>
+        <a href="/data-science/#s2-clustering">
+            <img src="../assets/images/s2_clustering.png" alt="S2 Clustering Logo" style="width:100%; height:150px; object-fit: cover; border-radius: 5px;">
         </a>
-        <!-- <p>Brief description of Project 3. <a href="/data-science/#s2-clustering">Read more →</a></p> -->
     </div>
 
 </div>
+
 
