@@ -41,6 +41,9 @@ I am an Astronomer, GIS Developer, and Educator with expertise in Computer Visio
         </a>
     </div>
 
+
+</div>
+<div
     <!-- Sentinel-2 Image Clustering -->
     <div style="width: 30%;">
         <h3><a href="/data-science/#s2-clustering">Sentinel-2 Image Clustering</a></h3>
