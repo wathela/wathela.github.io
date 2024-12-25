@@ -14,7 +14,7 @@ title: "Home"
 
 ### I am passionate about GeoAI, GIS, Astroinformatics, Astrophysics, and Computer Vision.
 
-
+<div style="margin-bottom: 2cm;"></div>
 
 ## Sample Projects
 
