@@ -10,13 +10,13 @@ title: "Home"
 
 ![My Photo](assets/images/photo.jpg){: .profile-photo }
 
-# Welcome to My Portfolio!
+## Welcome to My Portfolio!
 
-## I am passionate about GeoAI, GIS, Astroinformatics, Astrophysics, and Computer Vision.
+## #I am passionate about GeoAI, GIS, Astroinformatics, Astrophysics, and Computer Vision.
 
 
 
-# Sample Projects
+## Sample Projects
 
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 2%;">
