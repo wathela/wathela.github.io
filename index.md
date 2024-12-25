@@ -12,8 +12,7 @@ title: "Home"
 
 # Welcome to My Portfolio!
 
-I am an Astronomer, GIS Developer, and Educator with expertise in Computer Vision, Astronomical and Geo-spatial data modelling. Proficient in Python, data analysis, and tools development.
-
+I am passionate about GeoAI, GIS, Astroinformatics, Astrophysics, and Computer Vision.
 
 
 

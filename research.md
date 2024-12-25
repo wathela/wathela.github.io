@@ -6,20 +6,14 @@ permalink: /research/
 
 # Research Publications
 
----
-layout: page
-title: Research
-permalink: /research/
----
-
-# Research
 
 ## Publications
 
 ### 1. PyMerger: Detecting Binary Black Hole Mergers from the Einstein Telescope Using Deep Learning
 **Authors**: Wathela Alhassan, T. Bulik, M. Suchenek  
-**Published**: Accepted in the Astrophysical Journal (ApJ)  
-**DOI**: [https://doi.org/10.48550/arXiv.2310.10409](https://doi.org/10.48550/arXiv.2310.10409)
+**Published**: 16 December 2024
+**Journal**: Astrophysical Journal (ApJ)  
+**DOI**: [10.3847/1538-4357/ad901e](https://doi.org/10.3847/1538-4357/ad901e)
 
 **Summary**:  
 PyMerger is a Python tool using a deep residual network (ResNet) for detecting BBH mergers in simulated Einstein Telescope data. The model achieved high detection accuracy across different SNR levels, demonstrating its efficiency for BBH detection and its potential for wider applications in gravitational wave research.
@@ -32,7 +26,7 @@ PyMerger is a Python tool using a deep residual network (ResNet) for detecting B
 **Authors**: Wathela Alhassan, T Bulik, M Suchenek  
 **Published**: 24 December 2022  
 **Journal**: Monthly Notices of the Royal Astronomical Society, stac3797  
-**DOI**: [https://doi.org/10.1093/mnras/stac3797](https://doi.org/10.1093/mnras/stac3797)
+**DOI**: [10.1093/mnras/stac3797](https://doi.org/10.1093/mnras/stac3797)
 
 **Summary**:  
 This study leverages convolutional neural networks (CNNs) to detect binary black hole (BBH) mergers in synthetic gravitational wave signals for the Einstein Telescope (ET). Using ResNet, the model achieved high detection accuracy, especially for sources with high SNR, suggesting CNNs as a computationally efficient alternative for near-real-time gravitational wave detection in future ET data.
@@ -45,7 +39,7 @@ This study leverages convolutional neural networks (CNNs) to detect binary black
 **Authors**: Wathela Alhassan, Russ Taylor, M. Vaccari  
 **Published**: 28 July 2018  
 **Journal**: Monthly Notices of the Royal Astronomical Society (MNRAS), Volume 480  
-**DOI**: [https://doi.org/10.1093/mnras/sty2038](https://doi.org/10.1093/mnras/sty2038)
+**DOI**: [10.1093/mnras/sty2038](https://doi.org/10.1093/mnras/sty2038)
 
 **Summary**:
 This paper introduces the FIRST Classifier, an open-source software that automatically classifies radio sources from the Faint Images of the Radio Sky at Twenty centimeters (FIRST) survey into compact and extended (FRI, FRII and BENT) radio sources. In this work, a deep convolutional neural network model was trained to classify radio sources as compact or extended in radio sources. The model demonstrated high accuracy and provides a robust framework for large-scale radio data analysis.
