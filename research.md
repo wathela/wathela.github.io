@@ -12,7 +12,7 @@ permalink: /research/
 ### 1. PyMerger: Detecting Binary Black Hole Mergers from the Einstein Telescope Using Deep Learning
 **Authors**: Wathela Alhassan, T. Bulik, M. Suchenek  
 **Published**: 16 December 2024
-**Journal**: Astrophysical Journal (ApJ)  
+**Journal**: The Astrophysical Journal (ApJ)  
 **DOI**: [10.3847/1538-4357/ad901e](https://doi.org/10.3847/1538-4357/ad901e)
 
 **Summary**:  

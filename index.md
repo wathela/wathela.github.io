@@ -12,15 +12,11 @@ title: "Home"
 
 # Welcome to My Portfolio!
 
-I am passionate about GeoAI, GIS, Astroinformatics, Astrophysics, and Computer Vision.
+## I am passionate about GeoAI, GIS, Astroinformatics, Astrophysics, and Computer Vision.
 
 
 
-
-
-
-
-## Sample Projects
+# Sample Projects
 
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 2%;">
