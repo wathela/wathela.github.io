@@ -33,7 +33,7 @@ github_username: wathela
 theme: minima
 plugins:
   - jekyll-paginate
-paginate: 5
+paginate: 6
 
 
 nav:
@@ -47,6 +47,8 @@ nav:
     url: "/data-science/"
   - title: "Tools"
     url: "/tools/"
+  - title: "CV"
+    url: "/cv/"
 
 
 
