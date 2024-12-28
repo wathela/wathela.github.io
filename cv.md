@@ -5,6 +5,7 @@ permalink: /cv/
 ---
 
 ## Education:
+education:
   - degree: PhD in Applications of Artificial Intelligence in Astrophysics
     institution: Nicolaus Copernicus Astronomical Center, Polish Academy of Science, Poland
     dates: October 2020 - Expected March 2025
@@ -26,6 +27,7 @@ permalink: /cv/
     dates: July 2008 - September 2012
 
 ## Grants and Scholarships:
+grants_and_scholarships:
   - name: Geoplanet Doctoral School Full Scholarship
     dates: 2020 - 2024
 
