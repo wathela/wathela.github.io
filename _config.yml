@@ -33,6 +33,9 @@ github_username: wathela
 theme: minima
 plugins:
   - jekyll-paginate
+gems:
+  - jekyll-sitemap
+  - jekyll-paginate
 paginate: 6
 
 
