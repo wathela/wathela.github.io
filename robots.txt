@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://wathela.github.io/sitemap.xml
