@@ -15,6 +15,12 @@ permalink: /cv/
 - Engineered features and trained/tested machine learning models.  
 - Worked with algorithms including Random Forest, Support Vector Machine, and XGBoost.  
 
+### Co-Founder & GIS Web Developer  
+**Tag The Item (TaTI) Solutions, Gdańsk, Poland**  
+*March 2023 - May 2024*  
+- Led comprehensive development initiatives for spatial data management and visualization, including back-end, front-end, databases, and APIs.  
+- Raster and vector spatial data modeling and transformation.  
+
 ### Principal Investigator  
 **PRELUDIUM grant, National Science Center of Poland**  
 *January 2024 - December 2024*  
@@ -94,10 +100,10 @@ permalink: /cv/
 
 
 ## Computer Skills and Competences
-
-- Git, Python (Advanced), SQL, JavaScript (Advanced), MATLAB (Intermediate), HTML, CSS  
-- Data Visualization, Data Analysis, Machine Learning, Deep Learning  
-- Linux and Windows OS  
+ 
+- Airflow - Kafka - Spark - Cassandra
+- AirByte dbt - Dagster - BigQuery
+- Git - Python - FastAPI - Flask - Pandas - scikit-learn - tensorflow
+- JavaScript - Leaflet - HTML - CSS - SQL - PostgreSQL - PostGIS
+- Geoserver - ARCGIS - QGIS - ERDAS - ENVI - QGIS 
 - Astronomical Software: ds9, Top-cat, Aladdin  
-- Remote Sensing and GIS Software: ARCGIS, ERDAS, ENVI, QGIS  
-
