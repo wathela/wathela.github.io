@@ -4,10 +4,9 @@ title: "Data Engineering"
 permalink: /data-engineering/
 ---
 
-# Data Engineering Projects
 
 <div id="data-eng" class="tab-content"> 
-    <h2>Data Engineering</h2>
+    <h2>Data Engineering Projects</h2>
 
     <!-- End-to-End Data Engineering Project -->
     <div id="end-to-end-data-engineering-project">
@@ -27,7 +26,6 @@ permalink: /data-engineering/
             <li><strong>DBT:</strong> For transforming data into a structured and analytics-ready state.</li>
             <li><strong>Dagster:</strong> For orchestrating and managing the end-to-end pipeline.</li>
         </ul>
-        <h4>Full Implementation:</h4>
-        <p>Available on <a href="https://github.com/wathela/AirByte-DBT-Dagster-Project">GitHub</a>.</p>
+        <h4>Full Implementation Available on <a href="https://github.com/wathela/AirByte-DBT-Dagster-Project">GitHub</a>.</h4>
     </div>
 </div>
