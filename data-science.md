@@ -7,6 +7,7 @@ permalink: /data-science/
 
 
 <div id="data-science" class="tab-content"> 
+    <h2>Data Science Projects</h2>
 
     <!-- Rain Prediction Using Machine Learning Models -->
     <div id="rain-prediction-ml-project">
@@ -31,12 +32,12 @@ permalink: /data-science/
     </ul>
     <p>This project showcases an end-to-end machine learning workflow for weather prediction, emphasizing model evaluation and efficient data handling techniques.</p> 
     <p>Full implementation available on <a href="https://github.com/wathela/WeatherPredict">GitHub</a>.</p>
-    <div align="center">
+    <!-- <div align="center">
         <img src="project.png" alt="Project Image" width="600px">
-    </div>
+    </div> -->
     </div>
 
-    <h2>Data Science Projects</h2>
+   
 
     <!-- Sentinel-2 Image Clustering -->
     <div id="s2-clustering">
