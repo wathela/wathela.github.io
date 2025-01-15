@@ -7,6 +7,35 @@ permalink: /data-science/
 
 
 <div id="data-science" class="tab-content"> 
+
+    <!-- Rain Prediction Using Machine Learning Models -->
+    <div id="rain-prediction-ml-project">
+    <h3>Rain Prediction Using Machine Learning Models</h3>
+    <h4>Project Description:</h4>
+    <p>This project aims to predict the likelihood of rain using weather tabular data. Several machine learning algorithms were implemented, including:</p>
+    <ul>
+        <li><strong>K-Nearest Neighbors (KNN)</strong></li>
+        <li><strong>Random Forest</strong></li>
+        <li><strong>Decision Tree</strong></li>
+        <li><strong>Naive Bayes</strong></li>
+        <li><strong>Support Vector Machine (SVM)</strong></li>
+        <li><strong>Multi-Layer Perceptron (MLP)</strong></li>
+    </ul>
+    <h4>Workflow:</h4>
+    <ul>
+        <li><strong>Data Exploration and Cleaning:</strong> Conducted analysis and preprocessing to handle missing values and outliers.</li>
+        <li><strong>Data Pipeline Construction:</strong> Built a pipeline with data imputation and categorical encoding to prepare data for model training.</li>
+        <li><strong>Model Training:</strong> Trained multiple machine learning models to compare performance.</li>
+        <li><strong>Cross-Validation:</strong> Applied cross-validation to select the best-performing model.</li>
+        <li><strong>Hyperparameter Tuning:</strong> Used grid search with cross-validation to fine-tune model parameters for optimal accuracy.</li>
+    </ul>
+    <p>This project showcases an end-to-end machine learning workflow for weather prediction, emphasizing model evaluation and efficient data handling techniques.</p> 
+    <p>Full implementation available on <a href="https://github.com/wathela/WeatherPredict">GitHub</a>.</p>
+    <div align="center">
+        <img src="project.png" alt="Project Image" width="600px">
+    </div>
+    </div>
+
     <h2>Data Science Projects</h2>
 
     <!-- Sentinel-2 Image Clustering -->
