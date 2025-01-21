@@ -22,6 +22,15 @@ title: "Home"
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 2%;">
 
+    <!--  Crop Classification using Sentinel-1 and Sentinel-2 Data -->
+    <div style="flex: 1 1 30%; min-width: 250px; max-width: 400px;">
+        <h3><a href="/data-science/#crop-classification-belle-ile">Crop Classification using Sentinel-1 and Sentinel-2 Data</a></h3>
+        <a href="/data-science/#crop-classification-belle-ile">
+            <img src="../assets/images/crop.png" alt="crop-classification-belle-ile Logo" style="width:100%; height:150px; object-fit: cover; border-radius: 5px;">
+        </a>
+    </div>
+
+
     <!-- PyMerger Project -->
     <div style="flex: 1 1 30%; min-width: 250px; max-width: 400px;">
         <h3><a href="/tools/#pymerger">PyMerger</a></h3>

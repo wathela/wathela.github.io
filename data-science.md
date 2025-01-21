@@ -9,6 +9,28 @@ permalink: /data-science/
 <div id="data-science" class="tab-content"> 
     <h2>Data Science Projects</h2>
 
+
+    <!-- Crop Classification of Belle-Île Island using Sentinel-1 and Sentinel-2 Data -->
+    <div id="crop-classification-belle-ile">
+    <h3>Crop Classification of Belle-Île Island using Sentinel-1 and Sentinel-2 Data</h3>
+    <h4>Description:</h4>
+    <p>In this project, I used vegetation indices derived from both Sentinel-1 and Sentinel-2 imagery for the crop classification of Belle-Île Island, France. This end-to-end project demonstrates the complete workflow, including data acquisition, preprocessing, feature engineering, and modeling.</p>
+    <h4>Key Features and Tools:</h4>
+    <ul>
+        <li><strong>Data Acquisition and Processing:</strong> Leveraged the Google Earth Engine (GEE) Python API for querying and processing satellite imagery.</li>
+        <li><strong>Feature Engineering:</strong>
+            <ul>
+                <li><strong>Sentinel-2 Vegetation Indices:</strong> NDVI, GNDVI, NBR, and EVI.</li>
+                <li><strong>Sentinel-1 Indices:</strong> RVI, DPSVI, and DPSVIo.</li>
+            </ul>
+        </li>
+        <li><strong>Modeling:</strong> Implemented crop classification using <strong>Random Forest</strong> and <strong>XGBoost</strong> machine learning algorithms.</li>
+        <li><strong>Visualization:</strong> Utilized <strong>geemap</strong> for interactive visualizations.</li>
+    </ul>
+    <h4>Full Implementation:</h4>
+    <p>For the full implementation and detailed steps, please visit the <a href="https://github.com/wathela/Sentinel1-2CropML-Classification">GitHub repository</a>.</p>
+    </div>
+
     <!-- Rain Prediction Using Machine Learning Models -->
     <div id="rain-prediction-ml-project">
     <h3>Rain Prediction Using Machine Learning Models</h3>
