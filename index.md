@@ -24,7 +24,7 @@ title: "Home"
 
     <!--  Crop Classification using Sentinel-1 and Sentinel-2 Data -->
     <div style="flex: 1 1 30%; min-width: 250px; max-width: 400px;">
-        <h3><a href="/data-science/#crop-classification-belle-ile">Crop Classification (S1 and S2 data) </a></h3>
+        <h3><a href="/data-science/#crop-classification-belle-ile">Crop Classification (S1 and S2) </a></h3>
         <a href="/data-science/#crop-classification-belle-ile">
             <img src="../assets/images/crop.png" alt="crop-classification-belle-ile Logo" style="width:100%; height:150px; object-fit: cover; border-radius: 5px;">
         </a>
