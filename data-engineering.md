@@ -33,15 +33,15 @@ permalink: /data-engineering/
 
         <h4>System Flowchart:</h4>
         <p align="center">
-            <img src="./assets/warchat_images/warchart_flowchart_wb.png" width="600px">
+            <img src="../assets/warchat_images/warchart_flowchart_wb.png" width="600px">
         </p>
 
         <h4>Screenshots:</h4>
         <p align="center">
-            <img src="./assets/warchat_images/app_screen1.png" width="600px">
+            <img src="../assets/warchat_images/app_screen1.png" width="600px">
         </p>
         <p align="center">
-            <img src="./assets/warchat_images/app_screen2.png" width="600px">
+            <img src="../assets/warchat_images/app_screen2.png" width="600px">
         </p>
         <h4>Full source code Available on <a href="https://github.com/wathela/WarChat">GitHub</a>.</h4>
      
