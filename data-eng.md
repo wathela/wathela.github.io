@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Data Engineering"
+title: "AI and Data Engineering"
 permalink: /data-engineering/
 ---
 

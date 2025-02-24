@@ -24,8 +24,8 @@ title: "Home"
 
     <!-- WarChat -->
     <div style="flex: 1 1 30%; min-width: 250px; max-width: 400px;">
-        <h3><a href="/data-eng/#warchat">WarChat</a></h3>
-        <a href="/data-eng/#warchat">
+        <h3><a href="/data-engineering/#warchat">WarChat</a></h3>
+        <a href="/data-engineering/#warchat">
             <img src="../assets/images/warchat.png" alt="warchat Logo" style="width:100%; height:150px; object-fit: cover; border-radius: 5px;">
         </a>
     </div>
