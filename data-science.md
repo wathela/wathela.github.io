@@ -55,7 +55,7 @@ permalink: /data-science/
     <p>This project showcases an end-to-end machine learning workflow for weather prediction, emphasizing model evaluation and efficient data handling techniques.</p> 
     <p>Full implementation available on <a href="https://github.com/wathela/WeatherPredict">GitHub</a>.</p>
     <!-- <div align="center">
-        <img src="project.png" alt="Project Image" width="600px">
+        <img src="./assets/images/weather_project.png" alt="Project Image" width="600px">
     </div> -->
     </div>
 
