@@ -33,7 +33,7 @@ permalink: /data-engineering/
 
         <h4>System Flowchart:</h4>
         <p align="center">
-            <img src="assets/warchat_images/warchart_flowchart_wb.png" width="600px">
+            src="<img src="https://raw.githubusercontent.com/wathela.github.io/assets/warchat_images/warchart_flowchart_wb.png" width="600px">
         </p>
 
         <h4>Screenshots:</h4>
