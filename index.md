@@ -22,6 +22,14 @@ title: "Home"
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 2%;">
 
+    <!-- WarChat -->
+    <div style="flex: 1 1 30%; min-width: 250px; max-width: 400px;">
+        <h3><a href="/data-eng/#warchat">WarChat</a></h3>
+        <a href="/data-eng/#warchat">
+            <img src="../assets/images/warchat.png" alt="warchat Logo" style="width:100%; height:150px; object-fit: cover; border-radius: 5px;">
+        </a>
+    </div>
+
     <!--  Crop Classification using Sentinel-1 and Sentinel-2 Data -->
     <div style="flex: 1 1 30%; min-width: 250px; max-width: 400px;">
         <h3><a href="/data-science/#crop-classification-belle-ile">Crop Classification (S1 and S2) </a></h3>

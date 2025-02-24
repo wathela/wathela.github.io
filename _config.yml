@@ -44,7 +44,7 @@ nav:
     url: "/"
   - title: "Research"
     url: "/research/"
-  - title: "Data Engineering"
+  - title: "AI & Data Engineering"
     url: "/data-engineering/"
   - title: "Data Science"
     url: "/data-science/"
