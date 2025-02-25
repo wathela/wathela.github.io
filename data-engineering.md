@@ -28,20 +28,20 @@ permalink: /data-engineering/
         <ul>
             <li><strong>FastAPI:</strong> Backend API endpoints</li>
             <li><strong>Streamlit:</strong> APP frontend</li>
-            <li><strong>Airflow & Spark:</strong> For ACLED data orchestration and automated daily updates</li>
+            <li><strong>Airflow & Spark:</strong> For <a href="https://acleddata.com/">ACLED</a> data orchestration and automated daily updates</li>
         </ul>
 
         <h4>System Flowchart:</h4>
         <p align="center">
-            <img src="../assets/images/warchat_images/warchart_flowchart_wb.png" width="600px">
+            <img src="../assets/images/warchat_images/warchart_flowchart_wb.png" width="700px">
         </p>
 
         <h4>Screenshots:</h4>
         <p align="center">
-            <img src="../assets/images/warchat_images/app_screen1.png" width="600px">
+            <img src="../assets/images/warchat_images/app_screen1.png" width="700px">
         </p>
         <p align="center">
-            <img src="../assets/images/warchat_images/app_screen2.png" width="600px">
+            <img src="../assets/images/warchat_images/app_screen2.png" width="700px">
         </p>
         <h4>Full source code Available on <a href="https://github.com/wathela/WarChat">GitHub</a>.</h4>
      
