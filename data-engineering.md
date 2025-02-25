@@ -50,7 +50,7 @@ permalink: /data-engineering/
 
     <!-- End-to-End Data Engineering Project -->
     <div id="end-to-end-data-engineering-project">
-        <h4>----------------------------------------------------------------------</h4>
+        <h4>-----------------------------------------------------------------------------------------------------------------------------------------------------</h4>
         <h4></h4>
         <h3>End-to-End Data Engineering Project</h3>
         <h4>Description:</h4>
