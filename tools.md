@@ -24,6 +24,8 @@ permalink: /tools/
 
     <!-- PyFIRSTClassifier Tool -->
     <div id="pyfirstclassifier">
+        <h4>-----------------------------------------------------------------------------------------------------------------------------------------------------</h4>
+        <h4></h4>
         <h3>PyFIRSTClassifier</h3>
         <h4>Description:</h4>  
         <p>PyFIRSTClassifier is a Python package developed for classifying radio galaxy morphology from the FIRST radio survey. It utilizes a deep convolutional neural network (CNN) to automate the classification of radio sources into Compact, Bent, Fanaroff-Riley I (FRI), and Fanaroff-Riley II (FRII) types</p>

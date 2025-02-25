@@ -33,6 +33,8 @@ permalink: /data-science/
 
     <!-- Rain Prediction Using Machine Learning Models -->
     <div id="rain-prediction-ml-project">
+     <h4>-----------------------------------------------------------------------------------------------------------------------------------------------------</h4>
+    <h4></h4>
     <h3>Rain Prediction Using Machine Learning Models</h3>
     <h4>Project Description:</h4>
     <p>This project aims to predict the likelihood of rain using weather tabular data. Several machine learning algorithms were implemented, including:</p>
@@ -55,7 +57,7 @@ permalink: /data-science/
     <p>This project showcases an end-to-end machine learning workflow for weather prediction, emphasizing model evaluation and efficient data handling techniques.</p> 
     <p>Full implementation available on <a href="https://github.com/wathela/WeatherPredict">GitHub</a>.</p>
     <!-- <div align="center">
-        <img src="./assets/images/weather_project.png" alt="Project Image" width="600px">
+        <img src="../assets/images/weather_project.png" alt="Project Image" width="600px">
     </div> -->
     </div>
 
@@ -63,6 +65,8 @@ permalink: /data-science/
 
     <!-- Sentinel-2 Image Clustering -->
     <div id="s2-clustering">
+        <h4>-----------------------------------------------------------------------------------------------------------------------------------------------------</h4>
+        <h4></h4>
         <h3>Sentinel-2 Image Clustering in Python</h3>
         <h4>Description:</h4>  
         <p>Using Sentinel-2 satellite imagery, in this project I demonstrate how to use machine learning clustering techniques to classify various land cover types. Using Python libraries and Sentinel-2 satellite imagery in Algezeria state, Sudan. Clustering segments satellite images into meaningful groups based on spectral information. This approach helps in analyzing environmental and land-use patterns and supports decision-making in agriculture, urban planning, and conservation.</p>

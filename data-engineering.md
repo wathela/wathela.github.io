@@ -38,10 +38,10 @@ permalink: /data-engineering/
 
         <h4>Screenshots:</h4>
         <p align="center">
-            <img src="assets/images/warchat_images/app_screen1.png" width="600px">
+            <img src="../assets/images/warchat_images/app_screen1.png" width="600px">
         </p>
         <p align="center">
-            <img src="assets/images/warchat_images/app_screen2.png" width="600px">
+            <img src="../assets/images/warchat_images/app_screen2.png" width="600px">
         </p>
         <h4>Full source code Available on <a href="https://github.com/wathela/WarChat">GitHub</a>.</h4>
      
