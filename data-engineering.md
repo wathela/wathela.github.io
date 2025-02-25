@@ -50,6 +50,8 @@ permalink: /data-engineering/
 
     <!-- End-to-End Data Engineering Project -->
     <div id="end-to-end-data-engineering-project">
+        <h4>----------------------------------------------------------------------</h4>
+        <h4></h4>
         <h3>End-to-End Data Engineering Project</h3>
         <h4>Description:</h4>
         <p>This project demonstrates how to implement an end-to-end data engineering pipeline using tools from the modern data stack, including <strong>AirByte</strong>, <strong>DBT</strong>, and <strong>Dagster</strong>.</p>
