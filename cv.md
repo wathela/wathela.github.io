@@ -55,7 +55,7 @@ permalink: /cv/
 
 ### PhD in Application of AI in Astrophysics  
 **Nicolaus Copernicus Astronomical Center, Polish Academy of Science**  
-*October 2020 - Expected April 2025*  
+*October 2020 - May 2025*  
 
 ### MSc in Astrophysics and Space Science  
 **University of Cape Town, South Africa**  
