@@ -20,9 +20,6 @@ title: "Home"
 ## Sample Projects
 
 
- <!-- <div id="builiding-damage-S1">
-
-    <h3>Building Damage Assessment in Khartoum using Sentinel-1 Data</h3> -->
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 2%;">
 
