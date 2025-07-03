@@ -33,6 +33,7 @@ permalink: /data-science/
 
     </div>
 
+    <h4>-----------------------------------------------------------------------------------------------------------------------------------------------------</h4>
 
 
     <!-- Crop Classification of Belle-Île Island using Sentinel-1 and Sentinel-2 Data -->
