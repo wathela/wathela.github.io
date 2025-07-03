@@ -9,6 +9,31 @@ permalink: /data-science/
 <div id="data-science" class="tab-content"> 
     <h2>Data Science Projects</h2>
 
+    <!-- Building Damage Assessment using Sentinel-1-->
+    <div id="builiding-damage-S1">
+
+    <h3>Building Damage Assessment in Khartoum using Sentinel-1 Data</h3>
+    <h4>Description:</h4>
+    Sentinel-1 (IW mode) captures radar images that reveal surface changes under all weather and lighting conditions.
+    By comparing pre- and post-conflict images, changes in radar backscatter highlight structural damage.
+    Damaged buildings show distinct signal changes due to collapse, debris, or fire.
+    In this project, Sentinel-1 images from before and after the ongoing April 14 conflict were used to detect building damage in Khartoum. Open-source building footprints from Overture Maps were used to localize damage at the building level.
+    The map below visualizes detected damage, with a focus on the Soba Industrial Area.
+
+    <p align="center">
+            <img src="../assets/images/map.png" width="700px">
+    </p>
+
+    <h4>Tools:</h4>
+    <li><strong> Google Earth Engine (SAR processing, change detection) </li>
+    <li><strong> Geemap (interactive mapping & visualization) </li>
+    <li><strong> Rasterio and Rasterstats (spatial statistics) </li>
+    <li><strong> Overture Maps (open building footprint data)</li>
+
+
+    </div>
+
+
 
     <!-- Crop Classification of Belle-Île Island using Sentinel-1 and Sentinel-2 Data -->
     <div id="crop-classification-belle-ile">
