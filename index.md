@@ -20,7 +20,19 @@ title: "Home"
 ## Sample Projects
 
 
+ <!-- <div id="builiding-damage-S1">
+
+    <h3>Building Damage Assessment in Khartoum using Sentinel-1 Data</h3> -->
+
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 2%;">
+
+    <!-- Damage assessment -->
+    <div style="flex: 1 1 30%; min-width: 250px; max-width: 400px;">
+        <h3><a href="/data-science/#builiding-damage-S1">Sentinel-1 for Building Damage Assessment</a></h3>
+        <a href="/data-science/#builiding-damage-S1">
+            <img src="../assets/images/map.png" alt="Damage Map Logo" style="width:100%; height:150px; object-fit: cover; border-radius: 5px;">
+        </a>
+    </div>
 
     <!-- WarChat -->
     <div style="flex: 1 1 30%; min-width: 250px; max-width: 400px;">
